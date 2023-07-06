@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+Projet Frontend ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Le projet que j'ai réalisé pour le poste de frontend m'a pris environ 3 jours, en travaillant en moyenne 3 à 4 heures par jour. Dans ce projet, j'ai utilisé différentes technologies et outils pour atteindre les objectifs requis. L'un des choix techniques que j'ai fait était d'adopter Tailwind CSS comme framework de style.
 
-## Available Scripts
+Tailwind CSS est un framework CSS hautement personnalisable et basé sur les classes. Il offre une approche différente de la création d'interfaces utilisateur en fournissant une collection de classes prédéfinies pour faciliter la mise en page et le stylisme. En utilisant Tailwind CSS, j'ai pu accélérer mon flux de travail de développement en évitant d'écrire beaucoup de CSS personnalisé. Cela m'a permis de me concentrer davantage sur la logique de l'application et de gagner du temps en termes de développement et de maintenance.
 
-In the project directory, you can run:
+En ce qui concerne les tests, j'ai utilisé Jest, un framework de test JavaScript populaire. J'ai écrit deux petits tests pour vérifier les appels d'API dans mon application. Je n'ai pas l'habitude de jest c'est pourquoi j'ai fais ces deux tests pour apprendre à connaître un peu mieux jest.
 
-### `npm start`
+Pour les icônes, j'ai intégré React Icons. Cette bibliothèque offre une vaste collection d'icônes prêtes à l'emploi.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Pour effectuer les appels d'API, j'ai choisi Axios, une bibliothèque populaire et largement utilisée pour les requêtes HTTP. Axios simplifie la communication avec les API en fournissant une interface simple et intuitive pour effectuer des requêtes. Il gère également automatiquement les erreurs, les codes de statut et les données de réponse, ce qui m'a permis de gagner du temps et d'améliorer la fiabilité de mes appels d'API.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Enfin, j'ai utilisé ESLint pour maintenir une bonne indentation et un formattage cohérent du code. ESLint est un linter JavaScript qui aide à détecter les erreurs de syntaxe, les mauvaises pratiques et les incohérences de code.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+C'était un excellent entraînement qui m'a permis d'améliorer mes compétences et mes connaissances en développement frontend. Merci d'avoir pris en compte ma candidature et de m'avoir offert cette précieuse expérience.
